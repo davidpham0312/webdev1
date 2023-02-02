@@ -1,13 +1,3 @@
-# Group
-
-We are a group of three members.
-
-- Member 1:  Anh Pham, 50357871, anh.pham@tuni.fi, resposible for: backend (server), code refactoring (eslint, jsdoc...), documentation (second part)
-
-- Member 2:  Chu Duc Anh, 50358922, anh.chu@tuni.fi, resposible for: API and data models, gitLab issues & mocha tests
-
-- Member 3:  Hui Yin, 150163114, hui.yin@tuni.fi, resposible for: client (UI), documentation (first part)
-
 # Website instruction
 
 - URL: <https://obscure-ocean-24122.herokuapp.com/>. You can login by navigate to the ```List Users``` page.
